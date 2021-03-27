@@ -1,0 +1,1 @@
+# ts-jest-sonar-jfrog
